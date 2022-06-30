@@ -3,4 +3,5 @@
 \obj
 
 \build
-\install
+\installRelease/
+.DS_Store
